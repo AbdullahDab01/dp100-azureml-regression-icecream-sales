@@ -1,0 +1,4 @@
+Gelato Mágico wants to predict daily ice cream sales based on temperature.
+On hotter days, demand usually increases and we should produce more.
+On colder days, demand falls and we should avoid waste.
+This repository documents how I trained and registered a regression model in Azure Machine Learning.
